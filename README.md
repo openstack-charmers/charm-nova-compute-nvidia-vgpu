@@ -1,3 +1,8 @@
+> **WARNING**: this repository is outdated and has moved to:
+>
+> * https://opendev.org/openstack/charm-nova-compute-nvidia-vgpu
+> * https://github.com/openstack/charm-nova-compute-nvidia-vgpu
+
 # Overview
 
 This subordinate charm provides the NVidia vGPU support to the
